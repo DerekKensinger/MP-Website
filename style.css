@@ -1,8 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Mukta', sans-serif;
-
+    font-family: 'Catamaran', sans-serif;
 }
 #banner{
     background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(homepage.jpg);
@@ -20,10 +19,11 @@
     text-align: center;
     color: #fff;
     padding-top: 180px;
+    font-family: 'Abril Fatface', cursive;
 }
 .banner-text h1{
     font-size: 130px;   
-    font-family: 'Carter One', cursive;
+    font-family: 'Abril Fatface', cursive;
 
 }
 .banner-text p{
@@ -32,6 +32,8 @@
 }
 .banner-btn{
     margin: 70px auto 0;
+    border-radius: 20px;
+    font-family: 'Abril Fatface', cursive;
 }
 .banner-btn a{
     width: 150px;
@@ -44,6 +46,7 @@
     position: relative;
     z-index: 1;
     transition:color 0.5s;
+    font-family: 'Abril Fatface', cursive;
 }
 .banner-btn a span{
     width: 0;
@@ -118,7 +121,7 @@ nav ul li a{
 .title-text p{
     margin: auto;
     font-size: 20px;
-    color: #444444;
+    color: #ce1f1fd5;
     font-weight: bold;
     position: relative;
     z-index: 1;
@@ -163,7 +166,7 @@ nav ul li a{
     text-align: left;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #444444
+    color: #ce1f1fd5;
 }
 .features-desc{
     display: flex;
@@ -204,6 +207,7 @@ nav ul li a{
     width: 100%;
     padding: 70px 0;
     background: #c7c7c7;
+    font-family: 'Catamaran', sans-serif;
 }
 .service-box{
     width: 80%;
