@@ -16,8 +16,8 @@
     <img src="logo.png" class = "logo">
     <div class = "banner-text">
         <h1>Mode:Push F1 DFS Optimizer</h1>
-        <p>Gain the edge when competing in large field Daily Fantasy Sports tournaments</p>
-        <div class="banner-btn">
+        <p>Increase your odds when competing in Formula 1 Daily Fantasy Sports</p>
+        <div id="banner-btn">
             <a href="#"><span></span>Explore</a>
         </div>
     </div>
@@ -415,10 +415,22 @@
 var menuBtn = document.getElementById("menuBtn")
 var sideNav = document.getElementById("sideNav")
 var menu = document.getElementById("menu")
+var bannerBtn = document.getElementById("banner-btn")
 
 sideNav.style.right = "-250px";
 
 menuBtn.onclick = function(){
+    if(sideNav.style.right == "-250px"){
+        sideNav.style.right = "0";
+        menu.src = "close.png";
+    }
+    else{
+        sideNav.style.right = "-250px";
+        menu.src = "menu.png";
+    }
+}
+
+bannerBtn.onclick = function(){
     if(sideNav.style.right == "-250px"){
         sideNav.style.right = "0";
         menu.src = "close.png";

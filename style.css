@@ -27,16 +27,16 @@
 
 }
 .banner-text p{
-    font-size: 80px;
+    font-size: 25px;
     font-style: italic;
     font-family: 'Abril Fatface', cursive;
 }
-.banner-btn{
+#banner-btn{
     margin: 70px auto 0;
     border-radius: 20px;
     font-family: 'Abril Fatface', cursive;
 }
-.banner-btn a{
+#banner-btn a{
     width: 150px;
     text-decoration: none;
     display: inline-block;
@@ -49,7 +49,7 @@
     transition:color 0.5s;
     font-family: 'Abril Fatface', cursive;
 }
-.banner-btn a span{
+#banner-btn a span{
     width: 0;
     height: 100%;
     position: absolute;
@@ -59,10 +59,10 @@
     z-index: -1;
     transition: 0.5s;
 }
-.banner-btn a:hover span{
+#banner-btn a:hover span{
     width: 100%;
 }
-.banner-btn a:hover{
+#banner-btn a:hover{
     color: #000;
 }
 #sideNav{
@@ -142,7 +142,8 @@ nav ul li a{
     border-bottom-right-radius: 35px;
 }
 .title-text h1{
-    font-size: 50px;
+    font-size: 35px;
+    font-family: 'Abril Fatface', cursive;
 }
 .feature-box{
     width: 80%;
@@ -168,6 +169,7 @@ nav ul li a{
     margin-bottom: 10px;
     font-weight: 100;
     color: #ce1f1fd5;
+    font-family: 'Abril Fatface', cursive;
 }
 .features-desc{
     display: flex;
@@ -186,6 +188,7 @@ nav ul li a{
 .feature-text p{
     padding: 0 20px;
     text-align: initial;
+    font-size: 20px;
 }
 @media screen and (max-width: 770px){
     .title-text h1{
