@@ -22,13 +22,14 @@
     font-family: 'Abril Fatface', cursive;
 }
 .banner-text h1{
-    font-size: 130px;   
+    font-size: 110px;   
     font-family: 'Abril Fatface', cursive;
 
 }
 .banner-text p{
-    font-size: 20px;
+    font-size: 80px;
     font-style: italic;
+    font-family: 'Abril Fatface', cursive;
 }
 .banner-btn{
     margin: 70px auto 0;
