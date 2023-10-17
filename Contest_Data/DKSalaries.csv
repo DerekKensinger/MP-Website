@@ -1,0 +1,51 @@
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+D,Max Verstappen (29979381),Max Verstappen,29979381,CPT,23700,Qatar Grand Prix 2023,RB,35.2
+D,Max Verstappen (29979360),Max Verstappen,29979360,D,15800,Qatar Grand Prix 2023,RB,35.2
+D,Sergio Perez (29979382),Sergio Perez,29979382,CPT,15000,Qatar Grand Prix 2023,RB,17.3
+CNSTR,Red Bull Racing  (29979401),Red Bull Racing ,29979401,CNSTR,14500,Qatar Grand Prix 2023,RB,50.81
+D,Lando Norris (29979383),Lando Norris,29979383,CPT,14100,Qatar Grand Prix 2023,MCL,11.41
+D,Lewis Hamilton (29979384),Lewis Hamilton,29979384,CPT,13800,Qatar Grand Prix 2023,MERC,17.04
+D,Oscar Piastri (29979385),Oscar Piastri,29979385,CPT,13200,Qatar Grand Prix 2023,MCL,5.21
+D,Charles Leclerc (29979386),Charles Leclerc,29979386,CPT,12900,Qatar Grand Prix 2023,FERR,11.61
+D,George Russell (29979387),George Russell,29979387,CPT,12300,Qatar Grand Prix 2023,MERC,8.66
+D,Carlos Sainz Jr (29979388),Carlos Sainz Jr,29979388,CPT,11700,Qatar Grand Prix 2023,FERR,11.61
+D,Fernando Alonso (29979389),Fernando Alonso,29979389,CPT,10200,Qatar Grand Prix 2023,AM,16.33
+D,Sergio Perez (29979361),Sergio Perez,29979361,D,10000,Qatar Grand Prix 2023,RB,17.3
+D,Lando Norris (29979362),Lando Norris,29979362,D,9400,Qatar Grand Prix 2023,MCL,11.41
+CNSTR,McLaren  (29979402),McLaren ,29979402,CNSTR,9300,Qatar Grand Prix 2023,MCL,14.48
+D,Lewis Hamilton (29979363),Lewis Hamilton,29979363,D,9200,Qatar Grand Prix 2023,MERC,17.04
+D,Oscar Piastri (29979364),Oscar Piastri,29979364,D,8800,Qatar Grand Prix 2023,MCL,5.21
+CNSTR,Mercedes AMG Motorsport  (29979403),Mercedes AMG Motorsport ,29979403,CNSTR,8800,Qatar Grand Prix 2023,MERC,24.64
+D,Pierre Gasly (29979390),Pierre Gasly,29979390,CPT,8700,Qatar Grand Prix 2023,ALPN,6.5
+D,Charles Leclerc (29979365),Charles Leclerc,29979365,D,8600,Qatar Grand Prix 2023,FERR,11.61
+D,Lance Stroll (29979391),Lance Stroll,29979391,CPT,8400,Qatar Grand Prix 2023,AM,3.87
+CNSTR,Ferrari  (29979404),Ferrari ,29979404,CNSTR,8300,Qatar Grand Prix 2023,FERR,21.68
+D,George Russell (29979367),George Russell,29979367,D,8200,Qatar Grand Prix 2023,MERC,8.66
+D,Carlos Sainz Jr (29979368),Carlos Sainz Jr,29979368,D,7800,Qatar Grand Prix 2023,FERR,11.61
+D,Esteban Ocon (29979392),Esteban Ocon,29979392,CPT,7500,Qatar Grand Prix 2023,ALPN,4.81
+D,Alexander Albon (29979393),Alexander Albon,29979393,CPT,7200,Qatar Grand Prix 2023,WILL,6.31
+D,Yuki Tsunoda (29979394),Yuki Tsunoda,29979394,CPT,6900,Qatar Grand Prix 2023,AT,4.86
+D,Fernando Alonso (29979369),Fernando Alonso,29979369,D,6800,Qatar Grand Prix 2023,AM,16.33
+D,Liam Lawson (29979395),Liam Lawson,29979395,CPT,6300,Qatar Grand Prix 2023,AT,7.25
+D,Valtteri Bottas (29979396),Valtteri Bottas,29979396,CPT,6000,Qatar Grand Prix 2023,AR,4.5
+D,Pierre Gasly (29979370),Pierre Gasly,29979370,D,5800,Qatar Grand Prix 2023,ALPN,6.5
+D,Nico Hulkenberg (29979397),Nico Hulkenberg,29979397,CPT,5700,Qatar Grand Prix 2023,HAAS,3
+D,Lance Stroll (29979371),Lance Stroll,29979371,D,5600,Qatar Grand Prix 2023,AM,3.87
+CNSTR,Aston Martin F1 Team  (29979405),Aston Martin F1 Team ,29979405,CNSTR,5300,Qatar Grand Prix 2023,AM,17.27
+D,Guanyu Zhou (29979398),Guanyu Zhou,29979398,CPT,5100,Qatar Grand Prix 2023,AR,3.81
+D,Esteban Ocon (29979372),Esteban Ocon,29979372,D,5000,Qatar Grand Prix 2023,ALPN,4.81
+D,Alexander Albon (29979373),Alexander Albon,29979373,D,4800,Qatar Grand Prix 2023,WILL,6.31
+D,Kevin Magnussen (29979399),Kevin Magnussen,29979399,CPT,4800,Qatar Grand Prix 2023,HAAS,3.19
+D,Yuki Tsunoda (29979374),Yuki Tsunoda,29979374,D,4600,Qatar Grand Prix 2023,AT,4.86
+D,Logan Sargeant (29979400),Logan Sargeant,29979400,CPT,4500,Qatar Grand Prix 2023,WILL,1.94
+D,Liam Lawson (29979375),Liam Lawson,29979375,D,4200,Qatar Grand Prix 2023,AT,7.25
+D,Valtteri Bottas (29979376),Valtteri Bottas,29979376,D,4000,Qatar Grand Prix 2023,AR,4.5
+D,Nico Hulkenberg (29979377),Nico Hulkenberg,29979377,D,3800,Qatar Grand Prix 2023,HAAS,3
+CNSTR,Alpine F1 Team  (29979406),Alpine F1 Team ,29979406,CNSTR,3700,Qatar Grand Prix 2023,ALPN,8
+D,Guanyu Zhou (29979378),Guanyu Zhou,29979378,D,3400,Qatar Grand Prix 2023,AR,3.81
+D,Kevin Magnussen (29979379),Kevin Magnussen,29979379,D,3200,Qatar Grand Prix 2023,HAAS,3.19
+CNSTR,Alphatauri  (29979410),Alphatauri ,29979410,CNSTR,3200,Qatar Grand Prix 2023,AT,1.94
+D,Logan Sargeant (29979380),Logan Sargeant,29979380,D,3000,Qatar Grand Prix 2023,WILL,1.94
+CNSTR,Williams  (29979407),Williams ,29979407,CNSTR,3000,Qatar Grand Prix 2023,WILL,2.69
+CNSTR,Haas F1 Team  (29979408),Haas F1 Team ,29979408,CNSTR,3000,Qatar Grand Prix 2023,HAAS,2.06
+CNSTR,Alfa Romeo Racing  (29979409),Alfa Romeo Racing ,29979409,CNSTR,3000,Qatar Grand Prix 2023,AR,2.31

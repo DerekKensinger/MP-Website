@@ -107,6 +107,11 @@ nav ul li a{
         display: block;
         margin: 20px auto;
     }
+    .banner-text p{
+        font-size: 20px;
+        font-style: italic;
+        font-family: 'Abril Fatface', cursive;
+    }
 }
 
 /*--Feature--*/
