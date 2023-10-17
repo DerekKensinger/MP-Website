@@ -412,18 +412,21 @@ hr{
 }
 
 /*--Optimize--*/
-#optimize{
+#optimize {
     width: 100%;
     padding: 70px 0;
-    
-}
-.optimize-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
+    text-align: center; /* Center the content horizontally */
 }
 
-.optimize-table th, .optimize-table td {
+.optimize-table {
+    width: auto; /* Remove the width to allow it to be as wide as its content */
+    border-collapse: collapse;
+    margin: 20px auto; /* Center horizontally and add 20px margin to the top and bottom */
+    padding: 0 20px; /* Add 30px padding from the edges */
+}
+
+.optimize-table th,
+.optimize-table td {
     border: 1px solid #ccc;
     padding: 10px;
     text-align: center;
@@ -440,4 +443,17 @@ hr{
 
 .optimize-table tbody tr:nth-child(even) {
     background-color: #f2f2f2;
+}
+
+.copy-btn {
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    color: #000;
+    background-color: #f0f0f0; /* Add a background color here */
+    border: 1px solid #000;
+    font-family: 'Abril Fatface', cursive;
 }

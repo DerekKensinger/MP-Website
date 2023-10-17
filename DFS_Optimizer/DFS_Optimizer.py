@@ -40,7 +40,7 @@ pos_num_available = {
 salary_cap = 50000
 
 # Budget constraint for the CPT
-CPT_budget = 23700  # You can adjust this value based on the desired budget for the CPT, this is the max for the current contest 
+CPT_budget = 24000  # You can adjust this value based on the desired budget for the CPT, this is the max for the current contest 
 
 # The amount of lineups run in a simulation
 for lineup in range(1, 21):

@@ -1,51 +1,51 @@
 Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
-D,Max Verstappen (29979381),Max Verstappen,29979381,CPT,23700,Qatar Grand Prix 2023,RB,35.2
-D,Max Verstappen (29979360),Max Verstappen,29979360,D,15800,Qatar Grand Prix 2023,RB,35.2
-D,Sergio Perez (29979382),Sergio Perez,29979382,CPT,15000,Qatar Grand Prix 2023,RB,17.3
-CNSTR,Red Bull Racing  (29979401),Red Bull Racing ,29979401,CNSTR,14500,Qatar Grand Prix 2023,RB,50.81
-D,Lando Norris (29979383),Lando Norris,29979383,CPT,14100,Qatar Grand Prix 2023,MCL,11.41
-D,Lewis Hamilton (29979384),Lewis Hamilton,29979384,CPT,13800,Qatar Grand Prix 2023,MERC,17.04
-D,Oscar Piastri (29979385),Oscar Piastri,29979385,CPT,13200,Qatar Grand Prix 2023,MCL,5.21
-D,Charles Leclerc (29979386),Charles Leclerc,29979386,CPT,12900,Qatar Grand Prix 2023,FERR,11.61
-D,George Russell (29979387),George Russell,29979387,CPT,12300,Qatar Grand Prix 2023,MERC,8.66
-D,Carlos Sainz Jr (29979388),Carlos Sainz Jr,29979388,CPT,11700,Qatar Grand Prix 2023,FERR,11.61
-D,Fernando Alonso (29979389),Fernando Alonso,29979389,CPT,10200,Qatar Grand Prix 2023,AM,16.33
-D,Sergio Perez (29979361),Sergio Perez,29979361,D,10000,Qatar Grand Prix 2023,RB,17.3
-D,Lando Norris (29979362),Lando Norris,29979362,D,9400,Qatar Grand Prix 2023,MCL,11.41
-CNSTR,McLaren  (29979402),McLaren ,29979402,CNSTR,9300,Qatar Grand Prix 2023,MCL,14.48
-D,Lewis Hamilton (29979363),Lewis Hamilton,29979363,D,9200,Qatar Grand Prix 2023,MERC,17.04
-D,Oscar Piastri (29979364),Oscar Piastri,29979364,D,8800,Qatar Grand Prix 2023,MCL,5.21
-CNSTR,Mercedes AMG Motorsport  (29979403),Mercedes AMG Motorsport ,29979403,CNSTR,8800,Qatar Grand Prix 2023,MERC,24.64
-D,Pierre Gasly (29979390),Pierre Gasly,29979390,CPT,8700,Qatar Grand Prix 2023,ALPN,6.5
-D,Charles Leclerc (29979365),Charles Leclerc,29979365,D,8600,Qatar Grand Prix 2023,FERR,11.61
-D,Lance Stroll (29979391),Lance Stroll,29979391,CPT,8400,Qatar Grand Prix 2023,AM,3.87
-CNSTR,Ferrari  (29979404),Ferrari ,29979404,CNSTR,8300,Qatar Grand Prix 2023,FERR,21.68
-D,George Russell (29979367),George Russell,29979367,D,8200,Qatar Grand Prix 2023,MERC,8.66
-D,Carlos Sainz Jr (29979368),Carlos Sainz Jr,29979368,D,7800,Qatar Grand Prix 2023,FERR,11.61
-D,Esteban Ocon (29979392),Esteban Ocon,29979392,CPT,7500,Qatar Grand Prix 2023,ALPN,4.81
-D,Alexander Albon (29979393),Alexander Albon,29979393,CPT,7200,Qatar Grand Prix 2023,WILL,6.31
-D,Yuki Tsunoda (29979394),Yuki Tsunoda,29979394,CPT,6900,Qatar Grand Prix 2023,AT,4.86
-D,Fernando Alonso (29979369),Fernando Alonso,29979369,D,6800,Qatar Grand Prix 2023,AM,16.33
-D,Liam Lawson (29979395),Liam Lawson,29979395,CPT,6300,Qatar Grand Prix 2023,AT,7.25
-D,Valtteri Bottas (29979396),Valtteri Bottas,29979396,CPT,6000,Qatar Grand Prix 2023,AR,4.5
-D,Pierre Gasly (29979370),Pierre Gasly,29979370,D,5800,Qatar Grand Prix 2023,ALPN,6.5
-D,Nico Hulkenberg (29979397),Nico Hulkenberg,29979397,CPT,5700,Qatar Grand Prix 2023,HAAS,3
-D,Lance Stroll (29979371),Lance Stroll,29979371,D,5600,Qatar Grand Prix 2023,AM,3.87
-CNSTR,Aston Martin F1 Team  (29979405),Aston Martin F1 Team ,29979405,CNSTR,5300,Qatar Grand Prix 2023,AM,17.27
-D,Guanyu Zhou (29979398),Guanyu Zhou,29979398,CPT,5100,Qatar Grand Prix 2023,AR,3.81
-D,Esteban Ocon (29979372),Esteban Ocon,29979372,D,5000,Qatar Grand Prix 2023,ALPN,4.81
-D,Alexander Albon (29979373),Alexander Albon,29979373,D,4800,Qatar Grand Prix 2023,WILL,6.31
-D,Kevin Magnussen (29979399),Kevin Magnussen,29979399,CPT,4800,Qatar Grand Prix 2023,HAAS,3.19
-D,Yuki Tsunoda (29979374),Yuki Tsunoda,29979374,D,4600,Qatar Grand Prix 2023,AT,4.86
-D,Logan Sargeant (29979400),Logan Sargeant,29979400,CPT,4500,Qatar Grand Prix 2023,WILL,1.94
-D,Liam Lawson (29979375),Liam Lawson,29979375,D,4200,Qatar Grand Prix 2023,AT,7.25
-D,Valtteri Bottas (29979376),Valtteri Bottas,29979376,D,4000,Qatar Grand Prix 2023,AR,4.5
-D,Nico Hulkenberg (29979377),Nico Hulkenberg,29979377,D,3800,Qatar Grand Prix 2023,HAAS,3
-CNSTR,Alpine F1 Team  (29979406),Alpine F1 Team ,29979406,CNSTR,3700,Qatar Grand Prix 2023,ALPN,8
-D,Guanyu Zhou (29979378),Guanyu Zhou,29979378,D,3400,Qatar Grand Prix 2023,AR,3.81
-D,Kevin Magnussen (29979379),Kevin Magnussen,29979379,D,3200,Qatar Grand Prix 2023,HAAS,3.19
-CNSTR,Alphatauri  (29979410),Alphatauri ,29979410,CNSTR,3200,Qatar Grand Prix 2023,AT,1.94
-D,Logan Sargeant (29979380),Logan Sargeant,29979380,D,3000,Qatar Grand Prix 2023,WILL,1.94
-CNSTR,Williams  (29979407),Williams ,29979407,CNSTR,3000,Qatar Grand Prix 2023,WILL,2.69
-CNSTR,Haas F1 Team  (29979408),Haas F1 Team ,29979408,CNSTR,3000,Qatar Grand Prix 2023,HAAS,2.06
-CNSTR,Alfa Romeo Racing  (29979409),Alfa Romeo Racing ,29979409,CNSTR,3000,Qatar Grand Prix 2023,AR,2.31
+D,Max Verstappen (30250363),Max Verstappen,30250363,CPT,24000,United States Grand Prix 2023,RB,35.46
+D,Max Verstappen (30250343),Max Verstappen,30250343,D,16000,United States Grand Prix 2023,RB,35.46
+D,Lando Norris (30250364),Lando Norris,30250364,CPT,14700,United States Grand Prix 2023,MCL,11.86
+CNSTR,Red Bull Racing  (30250383),Red Bull Racing ,30250383,CNSTR,14500,United States Grand Prix 2023,RB,50.28
+D,Oscar Piastri (30250365),Oscar Piastri,30250365,CPT,14400,United States Grand Prix 2023,MCL,6.51
+D,Sergio Perez (30250366),Sergio Perez,30250366,CPT,14100,United States Grand Prix 2023,RB,16.69
+D,Lewis Hamilton (30250367),Lewis Hamilton,30250367,CPT,13200,United States Grand Prix 2023,MERC,17.04
+D,George Russell (30250368),George Russell,30250368,CPT,12900,United States Grand Prix 2023,MERC,9.21
+D,Charles Leclerc (30250369),Charles Leclerc,30250369,CPT,12300,United States Grand Prix 2023,FERR,11.89
+D,Carlos Sainz Jr (30250370),Carlos Sainz Jr,30250370,CPT,11400,United States Grand Prix 2023,FERR,11.61
+D,Fernando Alonso (30250371),Fernando Alonso,30250371,CPT,10500,United States Grand Prix 2023,AM,16.19
+D,Lando Norris (30250344),Lando Norris,30250344,D,9800,United States Grand Prix 2023,MCL,11.86
+D,Oscar Piastri (30250345),Oscar Piastri,30250345,D,9600,United States Grand Prix 2023,MCL,6.51
+CNSTR,McLaren  (30250384),McLaren ,30250384,CNSTR,9500,United States Grand Prix 2023,MCL,16.16
+D,Sergio Perez (30250346),Sergio Perez,30250346,D,9400,United States Grand Prix 2023,RB,16.69
+D,Pierre Gasly (30250372),Pierre Gasly,30250372,CPT,9000,United States Grand Prix 2023,ALPN,6
+CNSTR,Mercedes AMG Motorsport  (30250385),Mercedes AMG Motorsport ,30250385,CNSTR,8900,United States Grand Prix 2023,MERC,23.9
+D,Lewis Hamilton (30250347),Lewis Hamilton,30250347,D,8800,United States Grand Prix 2023,MERC,17.04
+D,George Russell (30250348),George Russell,30250348,D,8600,United States Grand Prix 2023,MERC,9.21
+D,Lance Stroll (30250373),Lance Stroll,30250373,CPT,8400,United States Grand Prix 2023,AM,3.88
+D,Charles Leclerc (30250349),Charles Leclerc,30250349,D,8200,United States Grand Prix 2023,FERR,11.89
+CNSTR,Ferrari  (30250386),Ferrari ,30250386,CNSTR,8100,United States Grand Prix 2023,FERR,20.99
+D,Alexander Albon (30250374),Alexander Albon,30250374,CPT,7800,United States Grand Prix 2023,WILL,6.29
+D,Carlos Sainz Jr (30250350),Carlos Sainz Jr,30250350,D,7600,United States Grand Prix 2023,FERR,11.61
+D,Esteban Ocon (30250375),Esteban Ocon,30250375,CPT,7200,United States Grand Prix 2023,ALPN,5.24
+D,Fernando Alonso (30250351),Fernando Alonso,30250351,D,7000,United States Grand Prix 2023,AM,16.19
+D,Valtteri Bottas (30250376),Valtteri Bottas,30250376,CPT,6600,United States Grand Prix 2023,AR,4.82
+D,Pierre Gasly (30250352),Pierre Gasly,30250352,D,6000,United States Grand Prix 2023,ALPN,6
+D,Daniel Ricciardo (30250377),Daniel Ricciardo,30250377,CPT,6000,United States Grand Prix 2023,AT,4.5
+D,Yuki Tsunoda (30250378),Yuki Tsunoda,30250378,CPT,5700,United States Grand Prix 2023,AT,4.8
+D,Lance Stroll (30250353),Lance Stroll,30250353,D,5600,United States Grand Prix 2023,AM,3.88
+D,Kevin Magnussen (30250379),Kevin Magnussen,30250379,CPT,5400,United States Grand Prix 2023,HAAS,3.47
+D,Alexander Albon (30250354),Alexander Albon,30250354,D,5200,United States Grand Prix 2023,WILL,6.29
+CNSTR,Aston Martin F1 Team  (30250387),Aston Martin F1 Team ,30250387,CNSTR,5200,United States Grand Prix 2023,AM,16.84
+D,Nico Hulkenberg (30250380),Nico Hulkenberg,30250380,CPT,5100,United States Grand Prix 2023,HAAS,2.88
+D,Esteban Ocon (30250355),Esteban Ocon,30250355,D,4800,United States Grand Prix 2023,ALPN,5.24
+D,Guanyu Zhou (30250381),Guanyu Zhou,30250381,CPT,4800,United States Grand Prix 2023,AR,4.06
+D,Logan Sargeant (30250382),Logan Sargeant,30250382,CPT,4500,United States Grand Prix 2023,WILL,1.71
+D,Valtteri Bottas (30250356),Valtteri Bottas,30250356,D,4400,United States Grand Prix 2023,AR,4.82
+D,Daniel Ricciardo (30250357),Daniel Ricciardo,30250357,D,4000,United States Grand Prix 2023,AT,4.5
+D,Yuki Tsunoda (30250358),Yuki Tsunoda,30250358,D,3800,United States Grand Prix 2023,AT,4.8
+CNSTR,Alpine F1 Team  (30250388),Alpine F1 Team ,30250388,CNSTR,3700,United States Grand Prix 2023,ALPN,8
+D,Kevin Magnussen (30250359),Kevin Magnussen,30250359,D,3600,United States Grand Prix 2023,HAAS,3.47
+D,Nico Hulkenberg (30250360),Nico Hulkenberg,30250360,D,3400,United States Grand Prix 2023,HAAS,2.88
+D,Guanyu Zhou (30250361),Guanyu Zhou,30250361,D,3200,United States Grand Prix 2023,AR,4.06
+CNSTR,Alphatauri  (30250389),Alphatauri ,30250389,CNSTR,3200,United States Grand Prix 2023,AT,1.94
+CNSTR,Williams  (30250390),Williams ,30250390,CNSTR,3100,United States Grand Prix 2023,WILL,2.53
+D,Logan Sargeant (30250362),Logan Sargeant,30250362,D,3000,United States Grand Prix 2023,WILL,1.71
+CNSTR,Alfa Romeo Racing  (30250391),Alfa Romeo Racing ,30250391,CNSTR,3000,United States Grand Prix 2023,AR,2.94
+CNSTR,Haas F1 Team  (30250392),Haas F1 Team ,30250392,CNSTR,3000,United States Grand Prix 2023,HAAS,2.06
